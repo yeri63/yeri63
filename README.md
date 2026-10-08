@@ -10,7 +10,7 @@
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator) - Automate dice throws in battle.
 * [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors) - Play against the computer.
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8-Ball) - Ask a question, shake, then see you answer.
-* [Sorting Hat)(https://github.com/yeri63/Sorting-Hat) - Get sorted into your house at Hogwarts.
+* [Sorting Hat](https://github.com/yeri63/Sorting-Hat) - Get sorted into your house at Hogwarts.
 
 ### Microcontroller Projects
 * [esp32-weather-station](url-link) - C++ firmware for ESP32 and DHT22 sensors.
