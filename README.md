@@ -13,5 +13,4 @@
 * [Sorting Hat](https://github.com/yeri63/Sorting-Hat) - Get sorted into your house at Hogwarts.
 
 ### Microcontroller Projects
-* [esp32-weather-station](url-link) - C++ firmware for ESP32 and DHT22 sensors.
-* [stm32-motor-control](url-link) - Real-time control loop for STM32 development boards.
+* [ATTiny85 Micro SD Player Module](https://github.com/yeri63/USB-Micro-SD-Player-Module) - Multi feature compact MP3 audio player.
