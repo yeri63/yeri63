@@ -5,7 +5,7 @@
 * [ios-xe-telemetry](url-link) - Model-driven telemetry collectors.
 
 ### HP48GX Calculator Programs
-* [Game-of-Sumer](Game-of-Sumer/README.md) - Economic simulation of Sumer in 3,000 BC.
+* [Game-of-Sumer](/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
 * [hp48-rpn-math](url-link) - Custom RPN stack applications.
 
 ### Microcontroller Projects
