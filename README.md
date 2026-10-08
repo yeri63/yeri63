@@ -1,4 +1,4 @@
-## Welcome to My GitHub Profile! 👋
+## Welcome to My GitHub Profile!
 
 ### 🌐 Cisco Apps
 * [cisco-aci-automation](url-link) - Scripts for automating Cisco ACI infrastructure.
