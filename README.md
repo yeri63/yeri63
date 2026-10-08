@@ -2,8 +2,17 @@
 ## Welcome to My GitHub Collection!
 
 ### Cisco IP Phone 7900 series Applications
-* [cisco-aci-automation](url-link) - Scripts for automating Cisco ACI infrastructure.
-* [ios-xe-telemetry](url-link) - Model-driven telemetry collectors.
+* [BBC World Service]() - Latest top stories from BBC.
+* [Weather Forecast]() - 7 day weather forecast with hourly T, R/H, Rain, Wind.
+* [Sunrise Sunset]() - Daily sunrise/sunset times, along with moon phases.
+* [World Time]() - Display the time from cities around the world.
+* [Magic 8 Ball]() - Shake the ball to get your prediction.
+* [Math Quiz]() - Math drills in add/sub/mul/div.
+* [Florida Lotto Generator]() - Pick Lotto numbers and lookup past games.
+* [Daily Proverb]() - Look up proverbs, and their meanings.
+* [Latin and Greek]() - Look up Latin prefix, root, and suffixes.
+* [Greek Mythology]() - Test your knowledge of the Greek Gods.
+* [Jokes for Kids]() - Large collection of simple jokes.
 
 ### HP48GX Calculator Programs
 * [Game of Sumer](https://github.com/yeri63/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
