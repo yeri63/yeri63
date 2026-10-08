@@ -4,7 +4,7 @@
 * [cisco-aci-automation](url-link) - Scripts for automating Cisco ACI infrastructure.
 * [ios-xe-telemetry](url-link) - Model-driven telemetry collectors.
 
-### 🧮 HP48GX Calculator
+### 🧮 HP48GX Calculator Programs
 * [hp48-rpn-math](url-link) - Custom RPN stack applications.
 * [saturn-assembly-games](url-link) - Low-level games built for the Saturn processor.
 
