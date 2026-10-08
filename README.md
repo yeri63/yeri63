@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to My GitHub Profile! 👋
 
-<!--
-**yeri63/yeri63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Cisco Apps
+* [cisco-aci-automation](url-link) - Scripts for automating Cisco ACI infrastructure.
+* [ios-xe-telemetry](url-link) - Model-driven telemetry collectors.
 
-Here are some ideas to get you started:
+### 🧮 HP48GX Programs
+* [hp48-rpn-math](url-link) - Custom RPN stack applications.
+* [saturn-assembly-games](url-link) - Low-level games built for the Saturn processor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎛️ Microcontrollers
+* [esp32-weather-station](url-link) - C++ firmware for ESP32 and DHT22 sensors.
+* [stm32-motor-control](url-link) - Real-time control loop for STM32 development boards.
