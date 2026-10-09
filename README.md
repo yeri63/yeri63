@@ -29,7 +29,7 @@
 ### Hitachi Data Systems / Brocade
 * [cci-report.sh]() - CLI version of Storage Navigator for looking up storage information.
 * [pair-cmd.sh]() - Lookup current state of ShadowImage or TrueCopy groups.
-* sw-report.py - Display switch port, zone, alias, and porterror information on the SAN Fabric.
+* [sw-report.py]() - Display switch port, zone, alias, and porterror information on the SAN Fabric.
 
 ### Assorted scripts
 * [lookup.sh]() - Quickly locate a process, notes, or event in the past.
