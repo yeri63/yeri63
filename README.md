@@ -32,6 +32,6 @@
 * [sw-report.py]() - Display switch port, zone, alias, and porterror information on the SAN Fabric.
 
 ### Assorted Scripts
-* [lookup.sh]() - Quickly locate a process, notes, or event in the past.
+* [lookup.sh](https://github.com/yeri63/lookup) - Quickly locate a process, notes, or event in the past.
 * [howto.sh]() - Quickly find process, procedure, or information to complete a task.
 * [txt2wiki](https://github.com/yeri63/txt2wiki) - Convert HowTo text documents to MarkDown for DokuWiki.
