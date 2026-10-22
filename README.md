@@ -13,6 +13,19 @@
 * [Latin and Greek]() - Look up Latin prefix, root, and suffixes.
 * [Greek Mythology]() - Test your knowledge of the Greek Gods.
 * [Jokes for Kids]() - Large collection of simple jokes.
+* [Brain Teasers]() - Some jokes that may require a bit more effort to guess.
+* [Wheel of Fortune]() - Play the game to guess a popular song title using the same rules as the TV game.
+* [Speak Spanish Now]() - List of greetings, polite interactions, interests, questions, etc. in Spanish with English translation.
+* [Rock, Paper, Scissors]() - Try you luck with the computer in the telephone!
+* [Sumer]() - An economic game using bushels of wheat to buy, sell, plant, and feed your people in Sumeria.
+* [Tic Tac Toe]() - Select one of 3 levels, easy, intermediate, and hard opponent to play against.
+* [Calendar]() - Display a monthly calendar for any year and month, to determine the weekday of an event.
+* [Time Machine]() - Go forward or back in time, just like the film, Back to the Future.
+* [Logical Fallacies]() - Brush up on some of these before your next debate, to help identify false arguments.
+* [Rhetoric]() - Look up meaning of rhetorical terms used to influence others.
+* [English Idioms]() - Handy reference to lookup meaning behind some idiomatic expressions.
+* [Spanish Idioms]() - Learn some of these to be more fluent with Spanish expressions and humor.
+* [Potter Trivia]() - Try and earn the highest score for your house by answering questions from 1 of 3 different categories.
 
 ### HP48GX Calculator Programs
 * [Game of Sumer](https://github.com/yeri63/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
