@@ -9,7 +9,7 @@
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball) - Shake the ball to get your prediction.
 * [Math Quiz](https://github.com/yeri63/Math-Quiz) - Math drills in add/sub/mul/div.
 * [Florida Lotto Generator](https://github.com/yeri63/Florida-Lotto) - Pick Lotto numbers and lookup past games.
-* [Daily Proverb]() - Look up proverbs, and their meanings.
+* [Daily Proverb]() - Find new proverbs, and learn their meanings.
 * [Latin and Greek]() - Look up Latin prefix, root, and suffixes.
 * [Greek Mythology]() - Test your knowledge of the Greek Gods.
 * [Jokes for Kids]() - Large collection of simple jokes.
