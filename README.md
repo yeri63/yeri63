@@ -1,7 +1,7 @@
 
 ## Welcome to My GitHub Collection!
 
-### Cisco IP Phone 7900 series Applications
+### Cisco IP Phone 7900 Applications
 * [BBC World Service](https://github.com/yeri63/BBC-World-Service) - Latest top stories from BBC.
 * [Weather Forecast](https://github.com/yeri63/Weather-Forecast) - 7 day weather forecast with hourly T, R/H, Rain, Wind.
 * [Sunrise Sunset](https://github.com/yeri63/Sunrise-Sunset) - Daily sunrise/sunset times, along with moon phases.
