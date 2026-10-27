@@ -16,7 +16,7 @@
 * [Brain Teasers](https://github.com/yeri63/Brain-Teasers) - Some jokes that may require a bit more effort to guess.
 * [Wheel of Fortune](https://github.com/yeri63/Wheel-of-Fortune) - Play the game to guess a popular song title using the same rules as the TV game.
 * [Speak Spanish Now](https://github.com/yeri63/Speak-Spanish-Now) - List of greetings, polite interactions, interests, questions, etc. in Spanish with English translation.
-* [Rock, Paper, Scissors](https://github.com/yeri63/Rock-Paper-Sissors2) - Try you luck with the computer in the telephone!
+* [Rock, Paper, Scissors](https://github.com/yeri63/Rock-Paper-Sissors3) - Try you luck with the computer in the telephone!
 * [Sumer](https://github.com/yeri63/Sumer) - An economic game using bushels of wheat to buy, sell, plant, and feed your people in Sumeria.
 * [Tic Tac Toe](https://github.com/yeri63/Tic-Tac-Toe) - Select one of 3 levels, easy, intermediate, and hard opponent to play against.
 * [Calendar](https://github.com/yeri63/Calendar) - Display a monthly calendar for any year and month, to determine the weekday of an event.
