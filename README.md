@@ -14,18 +14,18 @@
 * [Greek Mythology](https://github.com/yeri63/Greek-Mythology) - Test your knowledge of the Greek Gods.
 * [Jokes for Kids](https://github.com/yeri63/Jokes-for-Kids) - Large collection of simple jokes.
 * [Brain Teasers](https://github.com/yeri63/Brain-Teasers) - Some jokes that may require a bit more effort to guess.
-* [Wheel of Fortune](https://github.com/yeri63/Wheel-of-Fortune) - Play the game to guess a popular song title using the same rules as the TV game.
-* [Speak Spanish Now](https://github.com/yeri63/Speak-Spanish-Now) - List of greetings, polite interactions, interests, questions, etc. in Spanish with English translation.
+* [Wheel of Fortune](https://github.com/yeri63/Wheel-of-Fortune) - Play the game to guess a popular song lyric using the same rules as the TV game.
+* [Speak Spanish Now](https://github.com/yeri63/Speak-Spanish-Now) - List of greetings, polite interactions, interests, questions, etc. in Spanish with English translations.
 * [Rock, Paper, Scissors](https://github.com/yeri63/Rock-Paper-Sissors3) - Try you luck with the computer in the telephone!
 * [Sumer](https://github.com/yeri63/Sumer) - An economic game using bushels of wheat to buy, sell, plant, and feed your people in Sumeria.
-* [Tic Tac Toe](https://github.com/yeri63/Tic-Tac-Toe) - Select one of 3 levels, easy, intermediate, and hard opponent to play against.
+* [Tic Tac Toe](https://github.com/yeri63/Tic-Tac-Toe) - Select an opponent (easy, intermediate, and hard) to play against.
 * [Calendar](https://github.com/yeri63/Calendar) - Display a monthly calendar for any year and month, to determine the weekday of an event.
-* [Time Machine](https://github.com/yeri63/Time-Machine) - Go forward or back in time, just like the film, Back to the Future.
-* [Logical Fallacies](https://github.com/yeri63/Logical-Falacies) - Brush up on some of these before your next debate, to help identify false arguments.
-* [Rhetoric](https://github.com/yeri63/Rhetoric) - Look up meaning of rhetorical terms used to influence others.
-* [English Idioms](https://github.com/yeri63/English-Idioms) - Handy reference to lookup meaning behind some idiomatic expressions.
-* [Spanish Idioms](https://github.com/yeri63/Spanish-Idioms) - Learn some of these to be more fluent with Spanish expressions and humor.
-* [Potter Trivia](https://github.com/yeri63/Potter-Trivia) - Try and earn the highest score for your house by answering questions from 1 of 3 different categories.
+* [Time Machine](https://github.com/yeri63/Time-Machine) - Go forward or back in time, just like in the film, Back to the Future.
+* [Logical Fallacies](https://github.com/yeri63/Logical-Falacies) - Identify false arguments in your next debate.
+* [Rhetoric](https://github.com/yeri63/Rhetoric) - Review rhetorical expressions used to influence others.
+* [English Idioms](https://github.com/yeri63/English-Idioms) - Lookup meaning behind  idiomatic expressions.
+* [Spanish Idioms](https://github.com/yeri63/Spanish-Idioms) - Increase your fluency in Spanish environments.
+* [Potter Trivia](https://github.com/yeri63/Potter-Trivia) - Try and earn the highest score for your house by answering questions in 3 different categories.
 
 ### HP48GX Calculator Programs
 * [Game of Sumer](https://github.com/yeri63/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
