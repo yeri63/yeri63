@@ -2,6 +2,9 @@
 ## Welcome to My GitHub Collection!
 
 ### Cisco IP Phone 7900 Applications
+
+<img src="[image-url](https://github.com/yeri63/yeri63/blob/master/Cisco-IP-Phone.png)" alt="Cisco IP Phone" style="width:50%; height:auto;">
+
 * [BBC World Service](https://github.com/yeri63/BBC-World-Service) - Latest top stories from BBC.
 * [Weather Forecast](https://github.com/yeri63/Weather-Forecast) - 7 day weather forecast with hourly T, R/H, Rain, Wind.
 * [Sunrise Sunset](https://github.com/yeri63/Sunrise-Sunset) - Daily sunrise/sunset times, along with moon phases.
