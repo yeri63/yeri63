@@ -7,7 +7,7 @@
 * [Sunrise Sunset](https://github.com/yeri63/Sunrise-Sunset) - Daily sunrise/sunset times, along with moon phases.
 * [World Time](https://github.com/yeri63/World-Time) - Display the time from cities around the world.
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball) - Shake the ball to get your prediction.
-* [Math Quiz](https://github.com/yeri63/Math-Quiz) - Math drills in add/sub/mul/div.
+* [Math Quiz](https://github.com/yeri63/Math-Quiz) - Math drills in addition, subtraction, multiplication and division. 
 * [Florida Lotto Generator](https://github.com/yeri63/Florida-Lotto) - Pick Lotto numbers and lookup past games.
 * [Daily Proverb](https://github.com/yeri63/Daily-Proverb) - Find new proverbs, and learn their meanings.
 * [Latin and Greek](https://github.com/yeri63/Latin-Greek) - Look up Latin prefix, root, and suffixes.
