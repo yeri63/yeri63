@@ -40,11 +40,11 @@
 * [ATTiny85 Micro SD Player Module](https://github.com/yeri63/USB-Micro-SD-Player-Module) - Multi feature compact MP3 audio player.
 
 ### SAN Administrator Tools
-* [cci-report.sh]() - CLI version of Hitachi Storage Navigator for looking up storage information.
-* [pair-cmd.sh]() - Lookup current state of Hitachi ShadowImage or TrueCopy groups.
-* [sw-report.sh]() - Display Brocade switch port, zone, alias, and porterror information on the SAN Fabric.
+* [cci-report.sh](https://github.com/yeri63/cci-report.sh) - CLI version of Hitachi Storage Navigator for looking up storage information.
+* [pair-cmd.sh](https://github.com/yeri63/pair-cmd.sh) - Lookup current state of Hitachi ShadowImage or TrueCopy groups.
+* [sw-report.sh](https://github.com/yeri63/sw-report.sh) - Display Brocade switch port, zone, alias, and porterror information on the SAN Fabric.
 
 ### Assorted Scripts
 * [lookup.sh](https://github.com/yeri63/lookup) - Quickly locate a process, notes, or event in the past.
-* [howto.sh]() - Quickly find process, procedure, or information to complete a task.
+* [howto.sh](https://github.com/yeri63/howto.sh) - Quickly find process, procedure, or information to complete a task.
 * [txt2wiki](https://github.com/yeri63/txt2wiki) - Convert HowTo text documents to MarkDown for DokuWiki.
