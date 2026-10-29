@@ -25,8 +25,8 @@
 * [Rhetoric](https://github.com/yeri63/Rhetoric) - Review rhetorical expressions used to influence others.
 * [English Idioms](https://github.com/yeri63/English-Idioms) - Lookup meaning behind  idiomatic expressions.
 * [Spanish Idioms](https://github.com/yeri63/Spanish-Idioms) - Increase your fluency in Spanish environments.
-* [Potter Trivia](https://github.com/yeri63/Potter-Trivia) - Try and earn the highest score for your house by answering questions in 3 different categories.
-
+* [Potter Trivia](https://github.com/yeri63/Potter-Trivia) - Test your memory of characters, magical spells, and locations in the world of Harry Potter.
+  
 ### HP48GX Calculator Programs
 * [Game of Sumer](https://github.com/yeri63/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator) - Automate dice throws in battle.
