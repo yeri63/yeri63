@@ -3,7 +3,7 @@
 
 ### Cisco IP Phone 7900 Applications
 * [BBC World Service](https://github.com/yeri63/BBC-World-Service) - Latest top stories from BBC.
-* [Weather Forecast](https://github.com/yeri63/Weather-Forecast) - 7 day weather forecast with hourly T, R/H, Rain, Wind.
+* [Weather Forecast](https://github.com/yeri63/Weather-Forecast) - 7 day weather forecast with hourly Temp, Humidity, Rain, Wind Speed data. 
 * [Sunrise Sunset](https://github.com/yeri63/Sunrise-Sunset) - Daily sunrise/sunset times, along with moon phases.
 * [World Time](https://github.com/yeri63/World-Time) - Display the time from cities around the world.
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball) - Shake the ball to get your prediction.
