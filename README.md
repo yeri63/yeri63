@@ -38,6 +38,7 @@
 
 ### Microcontroller Projects
 * [ATTiny85 Micro SD Player Module](https://github.com/yeri63/USB-Micro-SD-Player-Module) - Multi feature compact MP3 audio player.
+* [Halocode Rock Paper Sissors](https://github.com/yeri63/Rock-Paper-Sissors2) - Play favorite childs game against Halocode.
 
 ### SAN Administrator Tools
 * [cci-report.sh](https://github.com/yeri63/cci-report.sh) - CLI version of Hitachi Storage Navigator for looking up storage information.
