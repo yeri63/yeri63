@@ -46,6 +46,6 @@
 * [sw-report.sh](https://github.com/yeri63/sw-report.sh) - Display Brocade switch port, zone, alias, and porterror information on the SAN Fabric.
 
 ### Assorted Scripts
-* [lookup.sh](https://github.com/yeri63/lookup) - Quickly locate a process, notes, or event in the past.
-* [howto.sh](https://github.com/yeri63/howto.sh) - Quickly find process, procedure, or information to complete a task.
+* [lookup](https://github.com/yeri63/lookup) - Quickly locate a process, notes, or event in the past.
+* [howto](https://github.com/yeri63/howto.sh) - Quickly find process, procedure, or information to complete a task.
 * [txt2wiki](https://github.com/yeri63/txt2wiki) - Convert HowTo text documents to MarkDown for DokuWiki.
