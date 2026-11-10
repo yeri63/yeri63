@@ -40,7 +40,7 @@
 * [ATTiny85 Micro SD Player Module](https://github.com/yeri63/USB-Micro-SD-Player-Module) - Multi feature compact MP3 audio player.
 * [Halocode Rock Paper Sissors](https://github.com/yeri63/Rock-Paper-Sissors2) - Play favorite childs game against Halocode.
 
-### SAN Administrator Tools
+### SAN Administration Tools
 * [cci-report.sh](https://github.com/yeri63/cci-report.sh) - CLI version of Hitachi Storage Navigator for looking up storage information.
 * [pair-cmd.sh](https://github.com/yeri63/pair-cmd.sh) - Lookup current state of Hitachi ShadowImage or TrueCopy replication groups.
 * [sw-report.sh](https://github.com/yeri63/sw-report.sh) - Display Brocade switch port, zone, alias, and porterror information on the SAN Fabric.
