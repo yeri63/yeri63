@@ -28,7 +28,7 @@
 * [Potter Trivia](https://github.com/yeri63/Potter-Trivia) - Test your memory of characters, magical spells, and event locations.
 
 ### Casio FX-602P Calculator Programs
-* [Magic 8 Ball](https://github.com/yeri63/Magic-8-Ball2) - Ask a question, shake, then see you answer.
+* [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, shake, then see you answer.
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator2) - Automate dice throws in battle.
 * [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors2) - Play against the computer.
   
