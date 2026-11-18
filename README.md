@@ -26,15 +26,20 @@
 * [English Idioms](https://github.com/yeri63/English-Idioms) - Lookup meaning behind  idiomatic expressions.
 * [Spanish Idioms](https://github.com/yeri63/Spanish-Idioms) - Increase your fluency in Spanish environments.
 * [Potter Trivia](https://github.com/yeri63/Potter-Trivia) - Test your memory of characters, magical spells, and event locations.
+
+### Casio FX-602P Calculator Programs
+* [Magic 8 Ball](https://github.com/yeri63/Magic-8-Ball2) - Ask a question, shake, then see you answer.
+* [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator2) - Automate dice throws in battle.
+* [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors2) - Play against the computer.
   
 ### HP48GX Calculator Programs
 * [Game of Sumer](https://github.com/yeri63/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
+* [Lissajous Figures](https://github.com/yeri63/Lissajous-Figures) - Oscilloscope images on your HP48G.
+* [Magic 8 Ball](https://github.com/yeri63/Magic-8-Ball) - Ask a question, shake, then see you answer.
+* [Math Flash Cards](https://github.com/yeri63/Math-Flash-Cards) - Addition, Subtraction, Multiplation, and Division.
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator) - Automate dice throws in battle.
 * [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors) - Play against the computer.
-* [Magic 8 Ball](https://github.com/yeri63/Magic-8-Ball) - Ask a question, shake, then see you answer.
 * [Sorting Hat](https://github.com/yeri63/Sorting-Hat) - Get sorted into your house at Hogwarts.
-* [Lissajous Figures](https://github.com/yeri63/Lissajous-Figures) - Oscilloscope images on your HP48G.
-* [Math Flash Cards](https://github.com/yeri63/Math-Flash-Cards) - Addition, Subtraction, Multiplation, and Division.
 
 ### Microcontroller Projects
 * [ATTiny85 Micro SD Player Module](https://github.com/yeri63/USB-Micro-SD-Player-Module) - Multi feature compact MP3 audio player.
