@@ -30,7 +30,7 @@
 ### Casio FX-602P Calculator Programs
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, shake, then see you answer.
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator2) - Automate dice throws in battle.
-* [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors2) - Play against the computer.
+* [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors3) - Play against the computer.
   
 ### HP48GX Calculator Programs
 * [Game of Sumer](https://github.com/yeri63/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
