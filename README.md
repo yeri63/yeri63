@@ -2,6 +2,8 @@
 ## Welcome to My GitHub Collection!
 
 ### Cisco IP Phone 7900 Applications
+I got the idea of installing Cisco IP telephones at home after reading that they could be used at home using VoIP after updating their firmware. This let me emulate an office environment at home, allowing me to call different rooms at home, leaving messages, or as a quick intercom. I later discovered that programs could be added to the Services menu, which led to the design of the programs you see below.
+
 #### Educational
 * [Daily Proverb](https://github.com/yeri63/Daily-Proverb) - Find new proverbs, and learn their meanings.
 * [English Idioms](https://github.com/yeri63/English-Idioms) - Lookup meaning behind  idiomatic expressions.
@@ -35,6 +37,8 @@
 ---
 
 ### Programmable Calculators
+
+I started writing programs back in 1978 with my first programmable calculator from Radio Shack, an EC-4001, with 8 character LED display, 36 step program memory, powered by a bulky 9-volt battery. Over the years, I graduated to leaner and much more powerful programmables, with the HP-48GX being the model I settled on in college. Here's some of the programs which you can try now using emulators running on your iPhone or Android. Enjoy!
 
 #### Casio FX-602P Programs
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, then press EXE to see your answer.
