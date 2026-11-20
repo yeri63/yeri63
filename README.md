@@ -37,14 +37,14 @@
 ### Programmable Calculators
 
 #### Casio FX-602P Programs
-* [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, shake, then see you answer.
+* [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, press EXE to see your answer.
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator2) - Automate dice throws in battle.
 * [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors4) - Play against the computer.
   
 #### HP48GX Programs
 * [Game of Sumer](https://github.com/yeri63/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
 * [Lissajous Figures](https://github.com/yeri63/Lissajous-Figures) - Oscilloscope images on your HP48G.
-* [Magic 8 Ball](https://github.com/yeri63/Magic-8-Ball) - Ask a question, shake, then see you answer.
+* [Magic 8 Ball](https://github.com/yeri63/Magic-8-Ball) - Ask a question, shake, then see your answer.
 * [Math Flash Cards](https://github.com/yeri63/Math-Flash-Cards) - Addition, Subtraction, Multiplation, and Division.
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator) - Automate dice throws in battle.
 * [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors) - Play against the computer.
