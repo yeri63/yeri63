@@ -32,12 +32,16 @@
 * [Weather Forecast](https://github.com/yeri63/Weather-Forecast) - 7 day weather forecast with hourly Temp, Humidity, Rain, and Wind Speed data. 
 * [World Time](https://github.com/yeri63/World-Time) - Display the time from cities around the world.
 
-### Casio FX-602P Calculator Programs
+---
+
+### Programmable Calculators
+
+#### Casio FX-602P Programs
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, shake, then see you answer.
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator2) - Automate dice throws in battle.
 * [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors4) - Play against the computer.
   
-### HP48GX Calculator Programs
+#### HP48GX Programs
 * [Game of Sumer](https://github.com/yeri63/Game-of-Sumer) - Economic simulation of Sumer in 3,000 BC.
 * [Lissajous Figures](https://github.com/yeri63/Lissajous-Figures) - Oscilloscope images on your HP48G.
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8-Ball) - Ask a question, shake, then see you answer.
@@ -46,16 +50,22 @@
 * [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors) - Play against the computer.
 * [Sorting Hat](https://github.com/yeri63/Sorting-Hat) - Get sorted into your house at Hogwarts.
 
+---
+
 ### Microcontroller Projects
 * [ATTiny85 Micro SD Player Module](https://github.com/yeri63/USB-Micro-SD-Player-Module) - Multi feature compact MP3 audio player.
 * [Halocode Rock Paper Sissors](https://github.com/yeri63/Rock-Paper-Sissors2) - Play favorite childs game against Halocode.
 
-### SAN Administration Tools
+---
+
+### Linux / MAC OSX
+
+#### SAN Administration Tools
 * [cci-report.sh](https://github.com/yeri63/cci-report.sh) - CLI version of Hitachi Storage Navigator for looking up storage information.
 * [pair-cmd.sh](https://github.com/yeri63/pair-cmd.sh) - Lookup current state of Hitachi ShadowImage or TrueCopy replication groups.
 * [sw-report.sh](https://github.com/yeri63/sw-report.sh) - Display Brocade switch port, zone, alias, and porterror information on the SAN Fabric.
 
-### Assorted Scripts
+#### Assorted Scripts
 * [lookup](https://github.com/yeri63/lookup) - Quickly locate a process, notes, or event in the past.
 * [howto](https://github.com/yeri63/howto.sh) - Quickly find process, procedure, or information to complete a task.
 * [txt2wiki](https://github.com/yeri63/txt2wiki) - Convert HowTo text documents to MarkDown for DokuWiki.
