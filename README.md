@@ -12,7 +12,7 @@
 * [Rhetoric](https://github.com/yeri63/Rhetoric) - Review rhetorical expressions used to influence others.
 * [Speak Spanish Now](https://github.com/yeri63/Speak-Spanish-Now) - List of greetings, polite interactions, interests, questions, etc. in Spanish with English translations.
 * [Spanish Idioms](https://github.com/yeri63/Spanish-Idioms) - Increase your fluency in Spanish environments.
-* [Sumer](https://github.com/yeri63/Sumer) - An economic game using bushels of wheat to buy, sell, plant, and feed your people in Sumeria.
+* [Sumer](https://github.com/yeri63/Sumer) - Learn economics using bushels of wheat to buy, sell, plant, and feed your people in Sumeria.
 
 #### Games / Entertainment
 * [Brain Teasers](https://github.com/yeri63/Brain-Teasers) - Some jokes that may require a bit more effort to guess.
