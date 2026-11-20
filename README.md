@@ -2,30 +2,35 @@
 ## Welcome to My GitHub Collection!
 
 ### Cisco IP Phone 7900 Applications
-* [BBC World Service](https://github.com/yeri63/BBC-World-Service) - Latest top stories from BBC.
-* [Weather Forecast](https://github.com/yeri63/Weather-Forecast) - 7 day weather forecast with hourly Temp, Humidity, Rain, and Wind Speed data. 
-* [Sunrise Sunset](https://github.com/yeri63/Sunrise-Sunset) - Daily sunrise/sunset times, along with moon phases.
-* [World Time](https://github.com/yeri63/World-Time) - Display the time from cities around the world.
-* [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball) - Shake the ball to get your prediction.
-* [Math Quiz](https://github.com/yeri63/Math-Quiz) - Math drills in addition, subtraction, multiplication and division. 
-* [Florida Lotto Generator](https://github.com/yeri63/Florida-Lotto) - Pick Lotto numbers and lookup past games.
+#### Educational
 * [Daily Proverb](https://github.com/yeri63/Daily-Proverb) - Find new proverbs, and learn their meanings.
-* [Latin and Greek](https://github.com/yeri63/Latin-Greek) - Look up Latin prefix, root, and suffixes.
-* [Greek Mythology](https://github.com/yeri63/Greek-Mythology) - Test your knowledge of the Greek Gods.
-* [Jokes for Kids](https://github.com/yeri63/Jokes-for-Kids) - Large collection of simple jokes.
-* [Brain Teasers](https://github.com/yeri63/Brain-Teasers) - Some jokes that may require a bit more effort to guess.
-* [Wheel of Fortune](https://github.com/yeri63/Wheel-of-Fortune) - Play the game to guess a popular song lyric using the same rules as the TV game.
-* [Speak Spanish Now](https://github.com/yeri63/Speak-Spanish-Now) - List of greetings, polite interactions, interests, questions, etc. in Spanish with English translations.
-* [Rock, Paper, Scissors](https://github.com/yeri63/Rock-Paper-Sissors3) - Try you luck with the computer in the telephone!
-* [Sumer](https://github.com/yeri63/Sumer) - An economic game using bushels of wheat to buy, sell, plant, and feed your people in Sumeria.
-* [Tic Tac Toe](https://github.com/yeri63/Tic-Tac-Toe) - Select an opponent (easy, intermediate, and hard) to play against.
-* [Calendar](https://github.com/yeri63/Calendar) - Display a monthly calendar for any year and month, to determine the weekday of an event.
-* [Time Machine](https://github.com/yeri63/Time-Machine) - Go forward or back in time, just like in the film, Back to the Future.
-* [Logical Fallacies](https://github.com/yeri63/Logical-Falacies) - Identify false arguments in your next debate.
-* [Rhetoric](https://github.com/yeri63/Rhetoric) - Review rhetorical expressions used to influence others.
 * [English Idioms](https://github.com/yeri63/English-Idioms) - Lookup meaning behind  idiomatic expressions.
+* [Greek Mythology](https://github.com/yeri63/Greek-Mythology) - Test your knowledge of the Greek Gods.
+* [Latin and Greek](https://github.com/yeri63/Latin-Greek) - Look up Latin prefix, root, and suffixes.
+* [Logical Fallacies](https://github.com/yeri63/Logical-Falacies) - Identify false arguments in your next debate.
+* [Math Quiz](https://github.com/yeri63/Math-Quiz) - Math drills in addition, subtraction, multiplication and division.
+* [Rhetoric](https://github.com/yeri63/Rhetoric) - Review rhetorical expressions used to influence others.
+* [Speak Spanish Now](https://github.com/yeri63/Speak-Spanish-Now) - List of greetings, polite interactions, interests, questions, etc. in Spanish with English translations.
 * [Spanish Idioms](https://github.com/yeri63/Spanish-Idioms) - Increase your fluency in Spanish environments.
+* [Sumer](https://github.com/yeri63/Sumer) - An economic game using bushels of wheat to buy, sell, plant, and feed your people in Sumeria.
+
+#### Games / Entertainment
+* [Brain Teasers](https://github.com/yeri63/Brain-Teasers) - Some jokes that may require a bit more effort to guess.
+* [Florida Lotto Generator](https://github.com/yeri63/Florida-Lotto) - Pick Lotto numbers and lookup past games.
+* [Jokes for Kids](https://github.com/yeri63/Jokes-for-Kids) - Large collection of simple jokes.
+* [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball) - Shake the ball to get your prediction.
 * [Potter Trivia](https://github.com/yeri63/Potter-Trivia) - Test your memory of characters, magical spells, and event locations.
+* [Rock, Paper, Scissors](https://github.com/yeri63/Rock-Paper-Sissors3) - Try you luck with the computer in the telephone!
+* [Tic Tac Toe](https://github.com/yeri63/Tic-Tac-Toe) - Select an opponent (easy, intermediate, and hard) to play against.
+* [Wheel of Fortune](https://github.com/yeri63/Wheel-of-Fortune) - Play the game to guess a popular song lyric using the same rules as the TV game.
+  
+#### Informational
+* [BBC World Service](https://github.com/yeri63/BBC-World-Service) - Latest top stories from BBC.
+* [Calendar](https://github.com/yeri63/Calendar) - Display a monthly calendar for any year and month, to determine the weekday of an event.
+* [Sunrise Sunset](https://github.com/yeri63/Sunrise-Sunset) - Daily sunrise/sunset times, along with moon phases.
+* [Time Machine](https://github.com/yeri63/Time-Machine) - Go forward or back in time, just like in the film, Back to the Future.
+* [Weather Forecast](https://github.com/yeri63/Weather-Forecast) - 7 day weather forecast with hourly Temp, Humidity, Rain, and Wind Speed data. 
+* [World Time](https://github.com/yeri63/World-Time) - Display the time from cities around the world.
 
 ### Casio FX-602P Calculator Programs
 * [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, shake, then see you answer.
