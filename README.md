@@ -28,7 +28,7 @@
 * [BBC World Service](https://github.com/yeri63/BBC-World-Service) - Latest top stories from BBC.
 * [Calendar](https://github.com/yeri63/Calendar) - Display a monthly calendar for any year and month, to determine the weekday of an event.
 * [Sunrise Sunset](https://github.com/yeri63/Sunrise-Sunset) - Daily sunrise/sunset times, along with moon phases.
-* [Time Machine](https://github.com/yeri63/Time-Machine) - Go forward or back in time, just like in the film, Back to the Future.
+* [Time Machine](https://github.com/yeri63/Time-Machine) - Go forward or back in time, just like in the film, "Back to the Future".
 * [Weather Forecast](https://github.com/yeri63/Weather-Forecast) - 7 day weather forecast with hourly Temp, Humidity, Rain, and Wind Speed data. 
 * [World Time](https://github.com/yeri63/World-Time) - Display the time from cities around the world.
 
