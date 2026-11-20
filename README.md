@@ -37,7 +37,7 @@
 ### Programmable Calculators
 
 #### Casio FX-602P Programs
-* [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, press EXE to see your answer.
+* [Magic 8 Ball](https://github.com/yeri63/Magic-8Ball2) - Ask a question, then press EXE to see your answer.
 * [Risk Battle Simulator](https://github.com/yeri63/Risk-Battle-Simulator2) - Automate dice throws in battle.
 * [Rock, Paper, Sissors](https://github.com/yeri63/Rock-Paper-Sissors4) - Play against the computer.
   
