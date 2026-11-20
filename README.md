@@ -2,7 +2,7 @@
 ## Welcome to My GitHub Collection!
 
 ### Cisco IP Phone 7900 Applications
-I got the idea of installing Cisco IP telephones at home after reading that they could be used at home using VoIP after updating their firmware. This let me emulate an office environment at home, allowing me to call different rooms at home, leaving messages, or as a quick intercom. I later discovered that programs could be added to the Services menu, which led to the design of the programs you see below.
+I got the idea of installing Cisco IP telephones at home after reading that they could be used at home using VoIP after updating their firmware. This let me emulate an office environment at home, allowing me to call different rooms at home, leaving messages, or as a quick intercom. I later discovered that programs could be added via the Services menu, which led to the design of the programs you see below.
 
 #### Educational
 * [Daily Proverb](https://github.com/yeri63/Daily-Proverb) - Find new proverbs, and learn their meanings.
